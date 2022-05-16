@@ -5,7 +5,7 @@ using UnityEngine;
 public static class Config : object
 {
     public static float speedPlatform = 4f;
-    public static float speedBall = 5f;
+    public static float speedBall = 6f;
     public static int lives = 3;
     public static List<GameObject> livesList = new List<GameObject>();
     public static int points = 0;
